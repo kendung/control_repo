@@ -1,5 +1,5 @@
 class role::minecraft_server{
-inclue profile::base
+include profile::base
 include profile::minecraft
 
 }
